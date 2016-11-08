@@ -1,8 +1,9 @@
 # foundation-sites-website-livereload
 
+first
 `npm install`
-`npm start`
 
-tip: install LiveReload plugin to chrome
+then
+`npm start`
 
 Enjoy!
